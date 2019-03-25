@@ -8,5 +8,5 @@ class Book
   end
   
   def author=(author)
-    @author = authro
+    @author = author
 end
